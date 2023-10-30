@@ -3,3 +3,5 @@ comment = 'provides auditing functionality'
 default_version = '1.3.3'
 module_pathname = '$libdir/pgaudit'
 relocatable = true
+requires = 'aiven-extras'
+
